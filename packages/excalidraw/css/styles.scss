@@ -1,0 +1,6 @@
+// packages/excalidraw/css/styles.scss
+.App-menu__left {
+  overflow-y: auto;
+  // ... existing styles
+  scrollbar-gutter: stable;
+}
